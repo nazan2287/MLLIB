@@ -9,6 +9,8 @@ Branches :
  
  Code Files :
  
+ TF-IDF : Completed_Nazarahamed_TF_IDF_from_Scratch_Assignment.ipynb
+ 
  
  
  #Good Page for TDIDF
