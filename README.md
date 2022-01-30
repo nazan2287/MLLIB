@@ -4,8 +4,8 @@
 
 
 Branches : 
- TFIDF - Has code snippets related to the Term Frequency and Inverse Document Frequency
- LSH_KNN - Has the code snippets for LSH Hashing Implementation using KNN 
+# TFIDF - Has code snippets related to the Term Frequency and Inverse Document Frequency
+# LSH_KNN - Has the code snippets for LSH Hashing Implementation using KNN 
  
  Code Files :
  
