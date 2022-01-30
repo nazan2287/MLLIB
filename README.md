@@ -3,15 +3,17 @@
 
 
 
-Branches : 
-# TFIDF - Has code snippets related to the Term Frequency and Inverse Document Frequency
-# LSH_KNN - Has the code snippets for LSH Hashing Implementation using KNN 
- 
- Code Files :
+**Branches : **
+**
+#TFIDF - Has code snippets related to the Term Frequency and Inverse Document Frequency
+#LSH_KNN - Has the code snippets for LSH Hashing Implementation using KNN 
+
+** Code Files :**
  
  TF-IDF : Completed_Nazarahamed_TF_IDF_from_Scratch_Assignment.ipynb
  
  
+** #References**
  
  #Good Page for TDIDF
 https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
